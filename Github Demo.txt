@@ -12,4 +12,6 @@ Hello, GitHub!!!!
 
 added new line
 
+added another line
+
 Next, add a new line at the end of this file:
