@@ -6,7 +6,10 @@ Step 4: Stage the changes.
 Step 5: Commit the changes.
 Step 6: Push the changes.
 
+
 Update the following line from "Hello, World!" to "Hello, Github!":
-Hello, world!
+Hello, GitHub!!!!
+
+added new line
 
 Next, add a new line at the end of this file:
